@@ -21,7 +21,7 @@ Additionally, from my hands-on experience, I'm a great team member.
 ✔ PHP, Laravel, CodeIgniter, Zend, WordPress<br>
 ✔ MySQL,PostgreSQL,MSSQL, MongoDB, SQLite, Firebase<br>
 ✔ HTML, CSS3/SCSS/Sass/Less/Bootstrap 3,4,5<br>
-✔ AWS, Google Cloud API, 
+✔ AWS, Google Cloud API<br>
 ✔ Blockchain, Solidity, Smart Contract, Web3 ,Rust, Solana, Ethereum,<br>
 ✔ nft buyer/ sale, Discord || Telegram bot,<br>
 ✔ ERC20, ERC721, ERC1155, ERC777<br>
