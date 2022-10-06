@@ -1,11 +1,9 @@
 👋 Hi, I’m @peakdev118 👏 <br>
 Welcome to my profile!
-![Skype ID](https://secure.skypeassets.com/wcss/8-88-0-404/images/firstrun/initial_loading_skype_logo.png)
-<h3>Please feel free to contact me here:<br>
 
-  
-  
-  - live:.cid.fcfbd68fc74f30ef  🎁🎁🎁</h3>
+
+<h3>Please feel free to contact me here:<br></h3>
+![Skype ID](https://secure.skypeassets.com/wcss/8-88-0-404/images/firstrun/initial_loading_skype_logo.png) - live:.cid.fcfbd68fc74f30ef
 
 As a senior Full Stack developer, my main goal is to dedicate perfect project to my clients. 
 For keep this principle, I'm highly motivated and I'll do with my best.
