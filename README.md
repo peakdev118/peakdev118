@@ -4,7 +4,7 @@ Welcome to my profile!
 
 <h3>Please feel free to contact me here:<br></h3>
 <a href="https://skype.com/" rel="Let's go to Skype now!">
-<img src="https://secure.skypeassets.com/wcss/8-88-0-404/images/firstrun/initial_loading_skype_logo.png" alt="Skype ID" />
+<img hegith=50 weight=50 src="https://secure.skypeassets.com/wcss/8-88-0-404/images/firstrun/initial_loading_skype_logo.png" alt="Skype ID" />
 </a> : live:.cid.fcfbd68fc74f30ef
 
 
