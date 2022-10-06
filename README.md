@@ -5,9 +5,9 @@ Welcome to my profile!
 <h3>Please feel free to contact me here:<br></h3>
 <a href="https//skype.com/" rel="Let's go to Skype now!">
 ![Skype ID](https://secure.skypeassets.com/wcss/8-88-0-404/images/firstrun/initial_loading_skype_logo.png) 
-
-Skype Name : live:.cid.fcfbd68fc74f30ef
 </a>
+Skype Name : live:.cid.fcfbd68fc74f30ef
+
 
 As a senior Full Stack developer, my main goal is to dedicate perfect project to my clients. 
 For keep this principle, I'm highly motivated and I'll do with my best.
