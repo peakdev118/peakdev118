@@ -1,7 +1,8 @@
 👋 Hi, I’m @peakdev118 👏 <br>
 Welcome to my profile!
-<h3>Please feel free to contact me here:<br>
 ![Skype ID](https://secure.skypeassets.com/wcss/8-88-0-404/images/firstrun/initial_loading_skype_logo.png)
+<h3>Please feel free to contact me here:<br>
+
   
   
   - live:.cid.fcfbd68fc74f30ef  🎁🎁🎁</h3>
