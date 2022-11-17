@@ -22,7 +22,7 @@ Additionally, from my hands-on experience, I'm a great team member.
 ✔ Vue.js, Nuxt.js , Vuetify<br>
 ✔ React.js, Next, React Bootstrap, MUI,<br>
 ✔ 3D : Three.js ,WebGL, D3.js<br>
-✔ 2D: CreateJs, P5.js<br>
+✔ 2D: CreateJs,GameMaker(GML),P5.js,<br>
 ✅ Back-end:<br>
 ✔ LAMP stack, Laravel, CodeIgniter<br>
 ✔ Node.js, Express.js, Nest.js<br>
