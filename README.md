@@ -4,10 +4,10 @@ Welcome to my profile!
 As a senior Full Stack developer, my main goal is to dedicate perfect project to my clients. 
 For keep this principle, I'm highly motivated and I'll do with my best.
 
-I have been working as a Full Stack developer for over 6 years and have gained lots of experience during that time. <br>
+I have been working as a Full Stack developer for over 7 years and have gained lots of experience during that time. <br>
 I worked several medium-sized companies and now I'm a full-time freelancer.
 
-Having strong experience in building web applications of over the course of 12 + years, I'm going to build pixel-perfect & responsive front-end and well-structured back-end logic for my customers.<br> 
+Having strong experience in building web applications, I'm going to build pixel-perfect & responsive front-end and well-structured back-end logic for my customers.<br> 
 I have always been devoting well-structured and maintainable code for my previous projects.<br>
 
 Also, I'm the right person who keep well time-line and dead-line and work well under pressure. 
