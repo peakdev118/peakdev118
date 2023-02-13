@@ -4,7 +4,6 @@ Welcome to my profile!
 As a senior Full Stack developer, my main goal is to dedicate perfect project to my clients. 
 For keep this principle, I'm highly motivated and I'll do with my best.
 
-I have been working as a Full Stack developer for over 7 years and have gained lots of experience during that time. <br>
 I worked several medium-sized companies and now I'm a full-time freelancer.
 
 Having strong experience in building web applications, I'm going to build pixel-perfect & responsive front-end and well-structured back-end logic for my customers.<br> 
@@ -14,6 +13,10 @@ Also, I'm the right person who keep well time-line and dead-line and work well u
 Additionally, from my hands-on experience, I'm a great team member.
 
 <h2>👀👀 My strong skills like below. 👀👀</h2><br>
+✅ AI:<br>
+✔ NLP, ML<br>
+✔ OpenAI, chatGPT, Fine-tuning <br>
+✔ Keras, pytorch<br>
 ✅ Front-end:<br>
 ✔ HTML, CSS, (SASS/SCSS, LESS) , CSS3 with Animation<br>
 ✔ Tailwind, Bootstrap, Bulma, Materialize CSS,<br>
@@ -35,7 +38,6 @@ Additionally, from my hands-on experience, I'm a great team member.
 ✔Okata,<br>
 ✔Twilio, TextMagic , (SMS)<br>
 ✔Discord, Telegram, (Communication)<br>
-✔Open AI (GPT-3)<br>
 ✅ WebRTC:<br>
 Socket.io, Pusher,<br>
 ✅ Automation:<br>
