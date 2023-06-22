@@ -16,6 +16,7 @@ Additionally, from my hands-on experience, I'm a great team member.
 ✅ AI:<br>
 ✔ NLP, ML<br>
 ✔ OpenAI, chatGPT, Fine-tuning <br>
+✔ Semenatic Search, IVR, Gorila, Supabase, Pinecone<br>
 ✔ Keras, pytorch<br>
 ✅ Front-end:<br>
 ✔ HTML, CSS, (SASS/SCSS, LESS) , CSS3 with Animation<br>
